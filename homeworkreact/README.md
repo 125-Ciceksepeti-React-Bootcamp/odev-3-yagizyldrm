@@ -9,7 +9,6 @@ The Features which are working correctly;
 -Object searching.
 
 The Features which are not working;
--Couldn't provide the data in Modal object,
 -Couldn't add the timeout function.
 
 
